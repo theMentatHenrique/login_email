@@ -10,6 +10,8 @@ import java.util.UUID;
 public class UserModel implements Serializable {
 private static final long SerialVersionUID = 1l;
 
+
+
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private UUID userId;
