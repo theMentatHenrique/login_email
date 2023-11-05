@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d8744f7-513f-42b9-9198-29be720b602a" name="Changes" comment="Removido arquivo idea">
+      <change afterPath="$PROJECT_DIR$/user_email/email/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_email/email/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_email/email/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_email/email/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_email/email/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user_email/email/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_email/email/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user_email/email/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_email/user/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/user_email/user/src/main/resources/application.properties" afterDir="false" />
@@ -57,6 +62,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/henri/OneDrive/Documentos/Github/user_email_ms/user_email/email&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -117,6 +123,8 @@
       <updated>1699129465043</updated>
       <workItem from="1699129466153" duration="593000" />
       <workItem from="1699130185594" duration="709000" />
+      <workItem from="1699131753308" duration="675000" />
+      <workItem from="1699148306094" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="Classe RabbiMQConfig corrigida">
       <option name="closed" value="true" />
